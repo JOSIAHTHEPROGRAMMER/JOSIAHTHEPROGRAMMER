@@ -36,4 +36,4 @@ Welcome to my corner of GitHub, where ideas turn into hopefully something tangib
 
 ---
 
-⭐️ *“If life gives you a test, smile in defiance and say We Go Pass, it's a lie that eventually becomes true.”*
+⭐️ *“If life gives you a test, smile in defiance and say We Go Pass. It's a lie that eventually becomes true.”*
