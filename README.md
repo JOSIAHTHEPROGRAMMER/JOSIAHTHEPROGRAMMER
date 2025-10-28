@@ -6,7 +6,7 @@ Welcome to my corner of GitHub, where ideas turn into hopefully something tangib
 
 ### 💻 About Me  
 - 🔭 I’m currently working on **full-stack web applications** and **C# projects**  
-- 🌱 I’m learning **TypeScript**, **Next.js**, **Flaskk** and **Data Analytics**  
+- 🌱 I’m learning **TypeScript**, **Next.js**, **Flask** and **Data Analytics**  
 - 👯 I’m looking to collaborate on **open-source projects** and **tech-for-good initiatives**  
 - 🤔 I’m open to help with **data analysis**, **web development**, and **building scalable APIs**  
 - 💬 Ask me about **Python, JavaScript, Flask (lol don't), React, or C++**  
