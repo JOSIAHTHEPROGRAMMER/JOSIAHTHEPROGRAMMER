@@ -42,9 +42,20 @@ Welcome to my corner of GitHub, where ideas turn into hopefully something tangib
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=JOSIAHTHEPROGRAMMER&layout=compact&theme=synthwave)
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JOSIAHTHEPROGRAMMER&show_icons=true&theme=synthwave" 
+    height="180px"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOSIAHTHEPROGRAMMER&layout=compact&theme=synthwave" 
+    height="180px"
+  />
+
+</div>
 
 ---
 
