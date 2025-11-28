@@ -44,18 +44,22 @@ Welcome to my corner of GitHub, where ideas turn into hopefully something tangib
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=JOSIAHTHEPROGRAMMER&show_icons=true&theme=synthwave" 
-    height="180px"
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=JOSIAHTHEPROGRAMMER&show_icons=true&theme=synthwave"
+    height="180"
+    style="border-radius: 39px;"
   />
+
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOSIAHTHEPROGRAMMER&layout=compact&theme=synthwave" 
-    height="180px"
+    height="180"
+    style="border-radius: 39px;"
   />
 
 </div>
+
 
 ---
 
