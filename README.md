@@ -10,8 +10,6 @@ Welcome to my corner of GitHub, where ideas turn into hopefully something tangib
 
 - I’m learning TypeScript, JavaScript, Go, and Data Analytics.
 
-- Ask me about Python, JavaScript, or C++.
-
 - Fun fact: I dislike working in group projects with friends.
 
 ## Tech Stack
