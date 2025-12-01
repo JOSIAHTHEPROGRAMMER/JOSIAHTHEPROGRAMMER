@@ -1,6 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2400&pause=900&color=18F4FF&center=true&vCenter=true&width=900&lines=👋+Hey+there!;Welcome+to+my+GitHub.+:);💥+Where+errors+breed.;☕+Where+sleep+is+replaced+with+blue+light.;💫+Where+we+STILL+Go+Pass." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2400&pause=900&colorful=true&center=true&vCenter=true&width=900&lines=👋+Hey+there!;Welcome+to+my+GitHub.+:);💥+Where+errors+breed.;☕+Where+sleep+is+replaced+with+blue+light.;💫+Where+we+STILL+Go+Pass." alt="Typing SVG" />
 </h1>
+
+
+
 
 
 
@@ -13,7 +16,7 @@
 
 ---
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JOSIAHTHEPROGRAMMER&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JOSIAHTHEPROGRAMMER&theme=aura&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 ## About Me
@@ -61,7 +64,7 @@
 
   <span style="display: inline-block; margin-right: 30px;">
     <img 
-      src="https://github-readme-stats-salesp07.vercel.app/api?username=JOSIAHTHEPROGRAMMER&show_icons=true&theme=synthwave"
+      src="https://github-readme-stats-salesp07.vercel.app/api?username=JOSIAHTHEPROGRAMMER&show_icons=true&theme=aura"
       height="180"
     />
   </span>
