@@ -91,7 +91,7 @@
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXllbWRrYWw0dGNzMXJzNnNkc2J1dm8wbzVyZzdkdXcxM3Q4cW9veiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CxjAa8LFNSRXoQeyy8/giphy.gif" width="400" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXllbWRrYWw0dGNzMXJzNnNkc2J1dm8wbzVyZzdkdXcxM3Q4cW9veiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CxjAa8LFNSRXoQeyy8/giphy.gif" width="150" />
 </p>
 
 <p align="center">
