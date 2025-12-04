@@ -16,8 +16,11 @@
 
 ---
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JOSIAHTHEPROGRAMMER&theme=aura&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JOSIAHTHEPROGRAMMER&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
+
+
+
 
 ## About Me
 
@@ -71,7 +74,7 @@
 
   <span style="display: inline-block; margin-left: 30px;">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOSIAHTHEPROGRAMMER&layout=compact&theme=synthwave"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOSIAHTHEPROGRAMMER&layout=compact&theme=monokai"
       height="180"
     />
   </span>
