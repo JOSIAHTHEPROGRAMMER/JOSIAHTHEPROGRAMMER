@@ -67,14 +67,14 @@
 
   <span style="display: inline-block; margin-right: 30px;">
     <img 
-      src="https://github-readme-stats-salesp07.vercel.app/api?username=JOSIAHTHEPROGRAMMER&show_icons=true&theme=aura"
+      src="https://github-readme-stats-salesp07.vercel.app/api?username=JOSIAHTHEPROGRAMMER&show_icons=true&theme=dracula"
       height="180"
     />
   </span>
 
   <span style="display: inline-block; margin-left: 30px;">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOSIAHTHEPROGRAMMER&layout=compact&theme=monokai"
+      src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=JOSIAHTHEPROGRAMMER&layout=compact&theme=dracula"
       height="180"
     />
   </span>
