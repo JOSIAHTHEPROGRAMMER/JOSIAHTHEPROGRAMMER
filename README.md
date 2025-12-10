@@ -1,4 +1,7 @@
 <h1 align="center">
+
+  <img width="2125" height="575" alt="Image" src="https://github.com/user-attachments/assets/60d5db05-ed56-488a-9113-cdd45cd44edf" /> 
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2400&pause=900&colorful=true&center=true&vCenter=true&width=900&lines=👋+Hey+there!;Welcome+to+my+GitHub.+:);💥+Where+errors+breed.;☕+Where+sleep+is+replaced+with+blue+light.;💫+Where+we+STILL+Go+Pass." alt="Typing SVG" />
 </h1>
 
