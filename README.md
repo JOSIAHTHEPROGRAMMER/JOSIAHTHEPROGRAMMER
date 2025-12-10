@@ -105,7 +105,12 @@
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXllbWRrYWw0dGNzMXJzNnNkc2J1dm8wbzVyZzdkdXcxM3Q4cW9veiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CxjAa8LFNSRXoQeyy8/giphy.gif" width="150" />
+
+
+    
+
+<img src="https://github.com/user-attachments/assets/efde5188-d71b-4dcd-bfd4-27faaf47dc76" width="150" />
+
   
    <p align="center">
       ⭐ <i>"If life gives you a test, smile in defiance and say: <b>We Go Pass</b>.<br/>A lie repeated until it becomes a prophecy."</i> ⭐
