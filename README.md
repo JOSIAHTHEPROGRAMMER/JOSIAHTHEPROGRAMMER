@@ -51,7 +51,7 @@ const josiah = {
 
 ## ⚡ TECH_ARSENAL
 
-<details open>
+<details>
 <summary><b>🔷 Languages & Core</b></summary>
 <br/>
 
