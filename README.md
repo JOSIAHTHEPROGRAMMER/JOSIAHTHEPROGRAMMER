@@ -184,7 +184,7 @@ const josiah = {
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  "If life gives you a test, smile in defiance and say:      ║
+║  "If life gives you a test, smile in defiance and say:       ║
 ║   WE GO PASS = A lie repeated until it becomes prophecy."    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
