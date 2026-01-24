@@ -9,7 +9,11 @@
  ╚════╝  ╚═════╝ ╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer;University+Student;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer;University+Student;Software+Engineer" alt="Typing SVG" />
+
+![Status](https://img.shields.io/badge/Status-Available_for_Projects-00F7FF?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Trinidad_%26_Tobago-00599C?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Full--Stack_Developer-FF6B6B?style=for-the-badge)
 
 ```diff
 @@ SYSTEM STATUS @@
@@ -25,34 +29,34 @@
 
 ---
 
-## 🎯 CURRENT_OBJECTIVE.exe
+## DEVELOPER PROFILE
 
 ```javascript
 const josiah = {
-  location: "Trinidad & Tobago 🇹🇹",
+  location: "Trinidad & Tobago",
   role: "Full-Stack Developer",
+  education: "University Student",
   mission: "Building digital solutions that pass every test",
-  superpower: "Moving ears independently 👂",
   
   current_stack: {
     languages: ["Python", "TypeScript", "Go", "C#"],
-    frontend: ["React", "Next.js", "Tailwind"],
+    frontend: ["React", "Next.js", "Tailwind CSS"],
     backend: ["Node.js", "Flask", "Express"],
     databases: ["MongoDB", "SQL Server", "Firebase"],
     tools: ["Docker", "VS Code", "Postman"]
   },
   
-  status: "🟢 Available for interesting projects",
-  motto: "We Go Pass - A lie repeated until it becomes prophecy"
+  availability: "Open for interesting projects and collaborations",
+  philosophy: "We Go Pass - A lie repeated until it becomes prophecy"
 };
 ```
 
 ---
 
-## ⚡ TECH_ARSENAL
+## TECHNICAL STACK
 
 <details>
-<summary><b>🔷 Languages & Core</b></summary>
+<summary><b>Languages & Core Technologies</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -66,7 +70,7 @@ const josiah = {
 </details>
 
 <details>
-<summary><b>🔶 Frontend Development</b></summary>
+<summary><b>Frontend Development</b></summary>
 <br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -78,7 +82,7 @@ const josiah = {
 </details>
 
 <details>
-<summary><b>🔷 Backend & APIs</b></summary>
+<summary><b>Backend & APIs</b></summary>
 <br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -89,7 +93,7 @@ const josiah = {
 </details>
 
 <details>
-<summary><b>🔶 Database & Storage</b></summary>
+<summary><b>Database & Storage</b></summary>
 <br/>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -100,7 +104,7 @@ const josiah = {
 </details>
 
 <details>
-<summary><b>🔷 DevOps & Tools</b></summary>
+<summary><b>DevOps & Tools</b></summary>
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -113,14 +117,13 @@ const josiah = {
 
 ---
 
-## 📊 SYSTEM_METRICS
+## GITHUB STATISTICS
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats-psi-beige-20.vercel.app/api?username=JOSIAHTHEPROGRAMMER&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9" />
 
 <img width="49%" src="https://github-readme-stats-psi-beige-20.vercel.app/api/top-langs/?username=JOSIAHTHEPROGRAMMER&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" />
-
 
 </div>
 
@@ -131,14 +134,14 @@ const josiah = {
 </p>
 
 ---
+
 <p align="center">
   <img src="https://github-profile-trophy-ten-eta.vercel.app/?username=JOSIAHTHEPROGRAMMER&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
-
 ---
 
-## 🎮 ACTIVITY_LOG
+## CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -148,7 +151,7 @@ const josiah = {
 
 ---
 
-## 🌐 CONNECTION_PORTS
+## CONNECT WITH ME
 
 <div align="center">
 
@@ -163,18 +166,18 @@ const josiah = {
 
 <div align="center">
 
-### 💭 DAILY_WISDOM
+### QUOTE OF THE DAY
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
 
 </div>
 
 ---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/JOSIAHTHEPROGRAMMER/Joke-Repo/main/joke.svg" alt="Daily Joke" />
-  <img  src="https://raw.githubusercontent.com/JOSIAHTHEPROGRAMMER/Joke-Repo/main/news.svg" alt="Daily News" />
+  <img src="https://raw.githubusercontent.com/JOSIAHTHEPROGRAMMER/Joke-Repo/main/news.svg" alt="Daily News" />
 </div>
-
 
 ---
 
@@ -188,5 +191,7 @@ const josiah = {
 ║   WE GO PASS = A lie repeated until it becomes prophecy."    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+
+![Profile Views](https://komarev.com/ghpvc/?username=JOSIAHTHEPROGRAMMER&color=00F7FF&style=for-the-badge)
 
 </div>
