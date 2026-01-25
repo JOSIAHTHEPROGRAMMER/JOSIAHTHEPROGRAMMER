@@ -11,9 +11,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer;University+Student;Software+Engineer" alt="Typing SVG" />
 
-![Status](https://img.shields.io/badge/Status-Available_for_Projects-00F7FF?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Trinidad_%26_Tobago-00599C?style=for-the-badge)
-![Role](https://img.shields.io/badge/Role-Full--Stack_Developer-FF6B6B?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Trinidad_%26_Tobago-CE1126?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Full--Stack_Developer-FFFFFF?style=for-the-badge&logoColor=000000)
+![Status](https://img.shields.io/badge/Status-Available_for_Projects-000000?style=for-the-badge)
+
 
 ```diff
 @@ SYSTEM STATUS @@
