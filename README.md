@@ -9,7 +9,7 @@
  ╚════╝  ╚═════╝ ╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer;University+Student;Software+Engineer" alt="Typing SVG" />
+
 
 ![Location](https://img.shields.io/badge/Location-Trinidad_%26_Tobago-CE1126?style=for-the-badge)
 ![Role](https://img.shields.io/badge/Role-Full--Stack_Developer-FFFFFF?style=for-the-badge&logoColor=000000)
@@ -27,30 +27,6 @@
 <img src="https://raw.githubusercontent.com/JOSIAHTHEPROGRAMMER/Joke-Repo/main/dist/github-snake-dark.svg" />
 
 </div>
-
----
-
-## DEVELOPER PROFILE
-
-```javascript
-const josiah = {
-  location: "Trinidad & Tobago",
-  role: "Full-Stack Developer",
-  education: "University Student",
-  mission: "Building digital solutions that pass every test",
-  
-  current_stack: {
-    languages: ["Python", "TypeScript", "Go", "C#"],
-    frontend: ["React", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "Flask", "Express"],
-    databases: ["MongoDB", "SQL Server", "Firebase"],
-    tools: ["Docker", "VS Code", "Postman"]
-  },
-  
-  availability: "Open for interesting projects and collaborations",
-  philosophy: "We Go Pass - A lie repeated until it becomes prophecy"
-};
-```
 
 ---
 
@@ -122,11 +98,12 @@ const josiah = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-psi-beige-20.vercel.app/api?username=JOSIAHTHEPROGRAMMER&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats-psi-beige-20.vercel.app/api?username=JOSIAHTHEPROGRAMMER&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=CE1126&icon_color=FFFFFF&text_color=C9D1D9&border_radius=10" />
 
-<img width="49%" src="https://github-readme-stats-psi-beige-20.vercel.app/api/top-langs/?username=JOSIAHTHEPROGRAMMER&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats-psi-beige-20.vercel.app/api/top-langs/?username=JOSIAHTHEPROGRAMMER&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=CE1126&text_color=C9D1D9&border_radius=10" />
 
 </div>
+>
 
 ---
 
@@ -146,7 +123,7 @@ const josiah = {
 
 <div align="center">
 
-[![Josiah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JOSIAHTHEPROGRAMMER&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Josiah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JOSIAHTHEPROGRAMMER&bg_color=0d1117&color=ce1126&line=ffffff&point=ce1126&area=true&hide_border=true&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
