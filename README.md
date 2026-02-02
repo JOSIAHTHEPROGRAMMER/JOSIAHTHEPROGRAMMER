@@ -170,6 +170,6 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=JOSIAHTHEPROGRAMMER&color=00F7FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=JOSIAHTHEPROGRAMMER&color=FF0000&style=for-the-badge)
 
 </div>
