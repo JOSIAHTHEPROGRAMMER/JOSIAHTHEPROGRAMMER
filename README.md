@@ -114,7 +114,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy-ten-eta.vercel.app/?username=JOSIAHTHEPROGRAMMER&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-ten-eta.vercel.app/?username=JOSIAHTHEPROGRAMMER&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" />
 </p>
 
 ---
