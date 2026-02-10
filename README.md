@@ -113,8 +113,13 @@
 
 ---
 
+
 <p align="center">
-  <img src="https://github-profile-trophy-ten-eta.vercel.app/?username=JOSIAHTHEPROGRAMMER&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ten-eta.vercel.app/?username=JOSIAHTHEPROGRAMMER&theme=radical&no-frame=true&no-bg=false&row=2&column=4&margin-w=15&margin-h=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ten-eta.vercel.app/?username=JOSIAHTHEPROGRAMMER&theme=flat&no-frame=false&no-bg=false&row=2&column=4&margin-w=15&margin-h=15">
+    <img alt="GitHub Trophies" src="https://github-profile-trophy-ten-eta.vercel.app/?username=JOSIAHTHEPROGRAMMER&theme=radical&no-frame=true&no-bg=false&row=2&column=4&margin-w=15&margin-h=15">
+  </picture>
 </p>
 
 ---
