@@ -100,7 +100,7 @@
 
 <img width="49%" src="https://github-readme-stats-psi-beige-20.vercel.app/api?username=JOSIAHTHEPROGRAMMER&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=CE1126&icon_color=FFFFFF&text_color=C9D1D9&border_radius=10" />
 
-<img width="49%" src="https://github-readme-stats-psi-beige-20.vercel.app/api/top-langs/?username=JOSIAHTHEPROGRAMMER&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=CE1126&text_color=C9D1D9&border_radius=10" />
+<img width="49%" src="https://github-readme-stats-psi-beige-20.vercel.app/api/top-langs/?username=JOSIAHTHEPROGRAMMER&layout=compact&hide=jupyter%20notebook&theme=radical&hide_border=true&bg_color=0D1117&title_color=CE1126&text_color=C9D1D9&border_radius=10" />
 
 </div>
 
