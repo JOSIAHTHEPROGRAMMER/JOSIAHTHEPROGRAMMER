@@ -29,14 +29,14 @@ I build backend systems and AI powered applications with a focus on performance,
 
 ## Current Focus
 
-```diff
-+ Building AI-powered applications
-+ Learning LLM Security & Red Teaming
-+ Backend Engineering
-+ Distributed Systems
-+ Data Engineering
-+ Daily LeetCode Practice
-```
+| Area | Focus |
+|------|-------|
+| Backend | Scalable APIs and system architecture |
+| AI | LLM applications and integrations |
+| Security | LLM security and red teaming |
+| Data | Data engineering and analytics |
+| Systems | Distributed systems |
+| Practice | Daily LeetCode |
 
 ---
 
