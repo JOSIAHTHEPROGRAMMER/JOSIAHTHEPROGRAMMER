@@ -98,21 +98,33 @@ I build backend systems and AI powered applications with a focus on performance,
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-psi-beige-20.vercel.app/api?username=JOSIAHTHEPROGRAMMER&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4a90d9&icon_color=4a90d9&text_color=C9D1D9&border_radius=10" />
+<table>
+<tr>
+<td width="50%" align="center">
 
-<img width="49%" src="https://github-readme-stats-psi-beige-20.vercel.app/api/top-langs/?username=JOSIAHTHEPROGRAMMER&layout=compact&hide=jupyter%20notebook&theme=radical&hide_border=true&bg_color=0D1117&title_color=4a90d9&text_color=C9D1D9&border_radius=10" />
+<img src="https://github-stats-extended-frontend-three-inky.vercel.app/api?username=JOSIAHTHEPROGRAMMER&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_reviewed,issues_authored&rank_icon=github&custom_title=Josiah%27s%20GitHub%20Activity&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&hide_border=true&border_radius=12&cache_seconds=21600" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-stats-extended-frontend-three-inky.vercel.app/api/top-langs?username=JOSIAHTHEPROGRAMMER&layout=donut&langs_count=8&hide=jupyter%20notebook&custom_title=Languages%20I%20Build%20With&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true&border_radius=12&cache_seconds=21600" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
 
-<p align="center">
+
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ten-eta.vercel.app/?username=JOSIAHTHEPROGRAMMER&theme=nord&no-frame=true&no-bg=false&row=2&column=4&margin-w=15&margin-h=15">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ten-eta.vercel.app/?username=JOSIAHTHEPROGRAMMER&theme=flat&no-frame=false&no-bg=false&row=2&column=4&margin-w=15&margin-h=15">
     <img alt="GitHub Trophies" src="https://github-profile-trophy-ten-eta.vercel.app/?username=JOSIAHTHEPROGRAMMER&theme=nord&no-frame=true&no-bg=false&row=2&column=4&margin-w=15&margin-h=15">
   </picture>
-</p>
+</p> -->
 
 ---
 
