@@ -102,7 +102,7 @@ I build backend systems and AI powered applications with a focus on performance,
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-stats-extended-frontend-three-inky.vercel.app/api?username=JOSIAHTHEPROGRAMMER&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_reviewed,issues_authored&rank_icon=github&custom_title=Josiah%27s%20GitHub%20Activity&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&hide_border=true&border_radius=12&cache_seconds=21600" />
+<img src="https://github-stats-extended-frontend-three-inky.vercel.app/api?username=JOSIAHTHEPROGRAMMER&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_reviewed,issues_authored&custom_title=Josiah%27s%20GitHub%20Activity&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&hide_border=true&border_radius=12&cache_seconds=21600" />
 
 </td>
 
@@ -115,6 +115,11 @@ I build backend systems and AI powered applications with a focus on performance,
 </table>
 
 </div>
+
+
+
+
+
 
 
 
