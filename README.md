@@ -133,16 +133,6 @@ I build backend systems and AI powered applications with a focus on performance,
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-[![Josiah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JOSIAHTHEPROGRAMMER&bg_color=0d1117&color=4a90d9&line=4a90d9&point=ffffff&area=true&hide_border=true&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
