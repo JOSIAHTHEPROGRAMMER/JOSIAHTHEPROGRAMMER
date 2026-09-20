@@ -137,7 +137,7 @@ I build backend systems and AI powered applications with a focus on performance,
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiah-alexis-a958a0223)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiah-alexis-we-go-pass/)
 &nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-4a90d9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://we-go-pass.vercel.app/)
 &nbsp;&nbsp;
