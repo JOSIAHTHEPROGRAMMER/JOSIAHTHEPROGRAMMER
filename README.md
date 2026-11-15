@@ -108,6 +108,7 @@ I build backend systems and AI powered applications with a focus on performance,
 
 <td width="50%" align="center">
 
+
 <img src="https://github-stats-extended-frontend-three-inky.vercel.app/api/top-langs?username=JOSIAHTHEPROGRAMMER&layout=donut&langs_count=8&hide=jupyter%20notebook&custom_title=Languages%20I%20Build%20With&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true&border_radius=12&cache_seconds=21600" />
 
 </td>
@@ -123,13 +124,19 @@ I build backend systems and AI powered applications with a focus on performance,
 
 
 
-<!-- <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ten-eta.vercel.app/?username=JOSIAHTHEPROGRAMMER&theme=nord&no-frame=true&no-bg=false&row=2&column=4&margin-w=15&margin-h=15">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ten-eta.vercel.app/?username=JOSIAHTHEPROGRAMMER&theme=flat&no-frame=false&no-bg=false&row=2&column=4&margin-w=15&margin-h=15">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy-ten-eta.vercel.app/?username=JOSIAHTHEPROGRAMMER&theme=nord&no-frame=true&no-bg=false&row=2&column=4&margin-w=15&margin-h=15">
-  </picture>
-</p> -->
+## GitHub Achievements
+
+<div align="center">
+
+  <img
+    src="https://github-profile-trophy-ten-eta.vercel.app/?username=JOSIAHTHEPROGRAMMER&theme=nord&no-frame=true&no-bg=true&row=2&column=4&margin-w=12&margin-h=12"
+    alt="GitHub Profile Trophies"
+    width="100%"
+  />
+
+  <sub>Milestones earned through building, contributing, and staying consistent.</sub>
+
+</div>
 
 ---
 
