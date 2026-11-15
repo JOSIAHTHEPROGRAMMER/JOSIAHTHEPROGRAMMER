@@ -6,15 +6,6 @@
 ![Role](https://img.shields.io/badge/Role-Backend_%E2%80%A2_AI_%E2%80%A2_Data_Engineer-FFFFFF?style=for-the-badge&logoColor=000000)
 ![Status](https://img.shields.io/badge/Status-Available_for_Projects-000000?style=for-the-badge)
 
-```diff
-@@ SYSTEM STATUS @@
-+ [✓] Backend Development     ━━━━━━━━━━━━━━━━━━━━ 100%
-+ [✓] AI Applications         ━━━━━━━━━━━━━━━━━━━━ 100%
-+ [✓] Data Engineering        ━━━━━━━━━━━━━━━━━━━━ 100%
-! [~] Cybersecurity           ━━━━━━━━━━━━━━░░░░░░  80%
-! [~] Mobile Development      ━━━━━━━━━━━━░░░░░░░░  65%
-```
-
 <img src="https://raw.githubusercontent.com/JOSIAHTHEPROGRAMMER/Joke-Repo/main/dist/github-snake-dark.svg" />
 
 </div>
