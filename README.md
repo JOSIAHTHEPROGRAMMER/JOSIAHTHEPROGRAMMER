@@ -169,6 +169,7 @@ I build backend systems and AI powered applications with a focus on performance,
 <div align="center">
   <img src="https://raw.githubusercontent.com/JOSIAHTHEPROGRAMMER/Joke-Repo/main/joke.svg" alt="Daily Joke" />
   <img src="https://raw.githubusercontent.com/JOSIAHTHEPROGRAMMER/Joke-Repo/main/news.svg" alt="Daily News" />
+  <img src="https://raw.githubusercontent.com/JOSIAHTHEPROGRAMMER/Joke-Repo/main/reaction.svg" alt="Daily News" />
 </div>
 
 ---
