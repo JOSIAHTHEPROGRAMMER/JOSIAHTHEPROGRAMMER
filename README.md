@@ -133,12 +133,11 @@ I build backend systems and AI powered applications with a focus on performance,
 
 <div align="center">
 
-  <img
-    src="https://github-profile-trophy-ten-eta.vercel.app/?username=JOSIAHTHEPROGRAMMER&theme=nord&no-frame=true&no-bg=true&row=2&column=4&margin-w=12&margin-h=12"
-    alt="GitHub Profile Trophies"
-    width="100%"
-  />
-
+<img
+  src="https://github-profile-trophy-ten-eta.vercel.app/?username=JOSIAHTHEPROGRAMMER&theme=nord&row=2&column=4&margin-w=12&margin-h=12"
+  alt="GitHub Profile Trophies"
+  width="100%"
+/>
   <sub>Milestones earned through building, contributing, and staying consistent.</sub>
 
 </div>
